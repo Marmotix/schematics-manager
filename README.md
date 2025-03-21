@@ -3,11 +3,11 @@
 
 ### Languages: *Russian/English/Polish*
 
-|
+
 
 ### Theme: *Dark/Light*
 
-|
+
 
 ### Functions:
 
@@ -21,6 +21,6 @@
 	
 • *Open schematic folder*
 
-|
+
 
 ## Dependencies: <a href="https://github.com/ExMod-Team/EXILED">EXILED</a> <a href="https://github.com/Michal78900/MapEditorReborn">MapEditorReborn</a>
