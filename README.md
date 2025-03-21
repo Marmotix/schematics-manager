@@ -20,3 +20,7 @@
 • *Install schematic: .json/.zip/.rar/.7zip/folder*
 	
 • *Open schematic folder*
+
+|
+
+## Dependencies: <a href="https://github.com/ExMod-Team/EXILED">EXILED</a> MapEditorReborn
