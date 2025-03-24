@@ -17,7 +17,7 @@
 	
 • *Search by name*
 	
-• *Install schematic: .json/.zip/.rar/.7zip/folder*
+• *Install schematic: .json/.zip/.rar/.7zip*
 	
 • *Open schematic folder*
 
