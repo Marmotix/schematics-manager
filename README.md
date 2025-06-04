@@ -23,4 +23,4 @@
 
 
 
-## Dependencies: <a href="https://github.com/ExMod-Team/EXILED">EXILED</a> <a href="https://github.com/Michal78900/MapEditorReborn">MapEditorReborn</a>
+## Dependencies: <a href="https://github.com/ExMod-Team/EXILED">EXILED</a> <a href="[https://github.com/Michal78900/MapEditorReborn](https://github.com/Michal78900/ProjectMER)">ProjectMER</a>
